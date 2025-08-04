@@ -1,1 +1,2 @@
 # FastestFingerFirst
+Developed a web application that helps users learn and practice over 100+ keyboard shortcuts through realistic software simulations. Designed interactive exercises that allow users to learn and train in a practical setting. Implemented a scoring and progress tracking system to provide users with immediate feedback and motivation. Utilized React to create a smooth, responsive interface. Built a scalable, mobile-friendly frontend to ensure a consistent experience across devices and support future feature additions.
